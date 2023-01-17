@@ -1,4 +1,5 @@
--  Django,Resp api,mysql,mongo DB,Javascipt,html,css
+-  Django,Rest api,mysql,mongo DB,Javascipt,html,css,GUI Tools
+-  Python,sql,
 -  Web Scraping ,Sql,Celery,Redis
 -  👋 Hi, I’m @swamypotharaveni
 - 👀 I’m interested in ...
